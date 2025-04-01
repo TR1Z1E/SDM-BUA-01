@@ -2,12 +2,15 @@ function ola(nome){
     return `Olá, ${nome}`
 }
 
-console.log(ola("Beatriz"))
+console.log(ola("Danilo"))
 
 
-const soma = function(a, b){
+const soma =  function(a, b){
 
-    return a + b
+return a + b
 }
+console.log(soma(10 , 25)) 
 
-console.log(soma(10,20))
+const mult = (x , y) => x * y;
+
+console.log(mult(10 , 25)) 

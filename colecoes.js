@@ -33,3 +33,5 @@ mapa.set( 42, "Idade")
 //Acessaando valores
 console.log(mapa.get("nome"))
 console.log(mapa.get(42))
+
+

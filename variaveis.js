@@ -11,7 +11,7 @@ let inteiro = parseInt ("5.8")
 // conersão de num para str
 
 let str = String(100)
-let outraStr(42).toString()
+let outraStr = (42).toString()
 
 console.log(idade,nome, ativo,PI)
 
